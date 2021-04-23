@@ -1,2 +1,2 @@
 # Podcastr
-Podcastr player made with Reactjs, Nextjs, Typescript
+Podcast player made with Reactjs, Nextjs, Typescript, Node.js
