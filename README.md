@@ -6,7 +6,6 @@ Podcastr (constuido na Next Level Week 05)
 
 * Reactjs
 * Nextjs, Typescript, Node.js
-* API Publica Tabela FIPE (https://deividfortuna.github.io/fipe/)
 
 ## ✒️ Autores
 
